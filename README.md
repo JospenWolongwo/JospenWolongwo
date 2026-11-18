@@ -2,7 +2,7 @@
 
 Full-stack product engineer (TypeScript). I build products end to end, from the database to the mobile release, and keep them running in production.
 
-I already work remotely across borders: for **[Nexma](https://nexma.org)**, a SaaS company in Canada, and for a client in Belgium. I co-founded **[Poky Group](https://github.com/POKY-GROUP)**.
+I have worked remotely across borders since 2023: for Hello Computing in Germany, for **[Nexma](https://nexma.org)**, a SaaS company in Canada, and for a client in Belgium. I co-founded **[Poky Group](https://github.com/POKY-GROUP)**.
 
 **Portfolio and case studies:** [jospen.vercel.app](https://jospen.vercel.app) · **CV:** [PDF](https://jospen.vercel.app/Jospen-Wolongwo-CV.pdf) · **LinkedIn:** [in/jospen](https://www.linkedin.com/in/jospen/) · **Email:** jospenwolongwo@gmail.com
 
