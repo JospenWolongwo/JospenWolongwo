@@ -17,6 +17,7 @@ Since 2023 I have worked across borders: remotely for [Hello Computing](https://
 | [PikDrive](https://pikdrive.com) | Ride-sharing with mobile-money payments | Sole engineer since Jan 2025 |
 | [TheLouk](https://thelouk.com) | Social app for events, on Google Play | Core mobile engineer: push, realtime, releases |
 | [HopiMed](https://hopimed237.site) | On-call pharmacies and doctors, with AI | Sole engineer: grounded assistant, prescription reading |
+| [Gajo Livestock](https://gajolivestock.com) | Agritech marketplace, web and Google Play | Contract: led landing and admin console, built the web marketplace flow |
 | TheLuxar | Commerce and delivery platform (staging) | Sole engineer, 130 merged PRs |
 
 Most of this work lives in private organisation repositories. The case studies show the engineering with real excerpts, and I'm happy to walk through any of it.
